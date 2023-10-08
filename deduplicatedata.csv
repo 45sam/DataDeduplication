@@ -1,0 +1,30 @@
+product_id,user_id,rating,review_text,sentiment
+1,101,4.5,I'm very satisfied with my purchase.,0.65
+1,102,3.0,"The product was okay, but could be improved.",0.5
+2,103,5.0,Absolutely love it! Would recommed to everyone.,0.625
+2,104,2.5,Not what I expected. Disappointed with the quality.,-0.425
+3,105,4.0,Nice product for the price. Good value.,0.6499999999999999
+3,106,1.0,"Terrible experience , would never buy again.",-1.0
+4,107,3.5,"Decent product,but could be improved",0.16666666666666666
+4,108,4.5,"Highly recommended , great quality and value.",0.48000000000000004
+5,109,2.0,"Not satisfied , the product was broke.",-0.25
+5,110,4.0,"works well, met my expectations.",0.0
+6,111,3.0,not that good.,0.7
+6,112,4.5,good product ,0.7
+7,113,3.5,could be better.,0.5
+7,114,5.0,worth the hype ,0.3
+8,115,4.5,like the product,0.0
+6,116,3.7,bad but not bad,-0.17499999999999996
+8,117,2.0,surely need emprovement go emprove it,0.5
+9,118,3.0,fuck you,-0.4
+9,119,2.0,how can  product can be so bad .,-0.6999999999999998
+10,120,4.0,a nice product really like it,0.4
+10,121,4.5,good quaity work like it,0.7
+11,122,2.0,work brooooooooooooooooooooooooo,0.0
+11,123,1.0,yes I am the same person,0.0
+12,124,4.0,fake it till i make it,-0.5
+12,125,3.0,yoo ,0.0
+13,126,3.5,I like the product cause it have many pros,0.5
+13,127,4.0,efficent enough ,0.0
+14,128,2.0,who bought your product just why…,0.0
+14,129,1.0,not even a avg product waste of money,-0.2
